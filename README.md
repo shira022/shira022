@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=bb9457&height=180&section=header&text=shira022%&fontSize=40&fontColor=fffbe7&animation=twinkling"/>
 
-<img src="https://img.icons8.com/ios-filled/100/6f4e37/coffee.png" width="80" alt="coffee-cup" style="margin-bottom: -20px;"/>
-
 # shira022's Profile ☕ | プロフィール
 
 ---
@@ -60,11 +58,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shira022&show_icons=true&theme=coffee" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shira022&theme=coffee" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shira022&layout=compact&theme=coffee" alt="Top Langs"/>
-</p>
 
 <img src="https://img.icons8.com/ios-filled/50/6f4e37/coffee-to-go.png" width="40" alt="coffee-to-go"/>
 
