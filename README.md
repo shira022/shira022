@@ -1,6 +1,6 @@
 <div align="center" style="background: #f5ebe0; border-radius: 18px; box-shadow: 0 4px 24px #b0896833; padding: 32px 0 0 0;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bb9457&height=180&section=header&text=shira022%20Cafe&fontSize=40&fontColor=fffbe7&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bb9457&height=180&section=header&text=shira022%&fontSize=40&fontColor=fffbe7&animation=twinkling"/>
 
 <img src="https://img.icons8.com/ios-filled/100/6f4e37/coffee.png" width="80" alt="coffee-cup" style="margin-bottom: -20px;"/>
 
