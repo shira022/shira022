@@ -1,64 +1,48 @@
-<div align="center" style="background: #f5ebe0; border-radius: 18px; box-shadow: 0 4px 24px #b0896833; padding: 32px 0 0 0;">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bb9457&height=180&section=header&text=shira022%&fontSize=40&fontColor=fffbe7&animation=twinkling"/>
-
-# shira022's Profile ☕ | プロフィール
-
----
-
-### 🚀 About Me | 私について
-
-<table style="background: #fffbe7; border-radius: 12px; box-shadow: 0 2px 8px #b0896833;">
-  <tr>
-    <td width="50%" valign="top">
-      <b>EN</b><br>
-      <i>Passionate software engineer</i> with a love for <b>clean code</b>, <b>automation</b>, and <b>solving complex problems</b>.<br>
-      I enjoy building <b>scalable backend systems</b>, exploring <b>modern frontend frameworks</b>, and always learning new tech.<br>
-      <span style="color:#b08968;">Let's chat over coffee!</span>
-    </td>
-    <td width="50%" valign="top">
-      <b>JP</b><br>
-      <i>クリーンなコード</i>、<i>自動化</i>、<i>複雑な課題の解決</i>が大好きなソフトウェアエンジニア。<br>
-      <b>スケーラブルなバックエンド</b>や<b>最新フロントエンド</b>の開発、新技術の探求に情熱を注いでいます。<br>
-      <span style="color:#b08968;">コーヒー片手にお話ししましょう！</span>
-    </td>
-  </tr>
-</table>
-
----
-
-<table style="background: #fffbe7; border-radius: 12px; box-shadow: 0 2px 8px #b0896833;">
-  <tr>
-    <th>EN</th>
-    <th>JP</th>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      <ul>
-        <li>🔭 <b>Current:</b> AI-driven automation, cloud-native apps, OSS contributions</li>
-        <li>🌱 <b>Learning:</b> Rust, Next.js, advanced DevOps</li>
-        <li>👯 <b>Collab:</b> Innovative open-source projects</li>
-        <li>💬 <b>Ask me:</b> TypeScript, Python, system design, tech in general!</li>
-        <li>📫 <b>Contact:</b> <a href="https://www.linkedin.com/" style="color:#b08968;">LinkedIn</a> | <a href="https://twitter.com/" style="color:#b08968;">Twitter</a></li>
-        <li>⚡ <b>Fun:</b> Coffee, hackathons, traveling</li>
-      </ul>
-    </td>
-    <td align="left" valign="top">
-      <ul>
-        <li>🔭 <b>現在:</b> AI自動化、クラウドネイティブアプリ、OSS貢献</li>
-        <li>🌱 <b>学習中:</b> Rust、Next.js、上級DevOps</li>
-        <li>👯 <b>コラボ:</b> 革新的なオープンソースプロジェクト</li>
-        <li>💬 <b>質問歓迎:</b> TypeScript、Python、システム設計、技術全般</li>
-        <li>📫 <b>連絡:</b> <a href="https://www.linkedin.com/" style="color:#b08968;">LinkedIn</a> | <a href="https://twitter.com/" style="color:#b08968;">Twitter</a></li>
-        <li>⚡ <b>趣味:</b> コーヒー、ハッカソン、旅行</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-
-<img src="https://img.icons8.com/ios-filled/50/6f4e37/coffee-to-go.png" width="40" alt="coffee-to-go"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bb9457&height=170&section=header&text=shira022&fontSize=46&fontColor=fffbe7&animation=twinkling" alt="banner" />
+  
+  <p><strong>Engineer focused on small durable decisions: clear architecture, lean automation, humane DX.</strong></p>
+  <p>
+    <img alt="Stack" src="https://img.shields.io/badge/Stack-TypeScript·Python·Rust(b)-bb9457" />
+    <img alt="Focus" src="https://img.shields.io/badge/Focus-Backend·Frontend·Infra-b08968" />
+    <img alt="Style" src="https://img.shields.io/badge/Style-Clean%20%26%20Predictable-6f4e37" />
+  </p>
 </div>
+
+---
+
+### Snapshot
+Designing reliable services, shaping lightweight frontends, and removing friction via tooling.
+Values: clarity / restraint / fast feedback / empathy.
+
+### Stack (Current Motion)
+```
+Backend: TypeScript (Node), Python; Rust (learning)
+Frontend: React / Next.js (hybrid rendering)  
+Infra: Docker, GitHub Actions, exploring Terraform / IaC patterns
+Data: PostgreSQL, Redis, simple brokers (when justified)
+Testing: Vitest/Jest, Pytest, contract tests case-by-case
+```
+
+### Working Principles
+```
+Readable > Clever
+Small slices > Big unveils
+Automate repetition > Protect focus
+Boundary clarity > Entangled speed
+Performance = UX
+```
+
+### Current Focus
+- Rust fundamentals (ownership + async robustness)
+- Edge + streaming patterns in Next.js
+- Observability & cost-aware infra decisions
+
+### Contact
+LinkedIn · Twitter/X · Repo Issues (open ideas welcome)
+
+### Micro Bits
+Coffee-driven mornings. Prefer graceful failure paths. Tiny internal tools are my favorite leverage.
+
+---
+<div align="center"><sub>Minimal profile · Updated: 2025-10-25</sub></div>
