@@ -3,7 +3,7 @@
   
   <p><strong>Engineer focused on small durable decisions: clear architecture, lean automation, humane DX.</strong></p>
   <p>
-    <img alt="Stack" src="https://img.shields.io/badge/Stack-TypeScript·Python·Rust(b)-bb9457" />
+    <img alt="Stack" src="https://img.shields.io/badge/Stack-TypeScript·Python-bb9457" />
     <img alt="Focus" src="https://img.shields.io/badge/Focus-Backend·Frontend·Infra-b08968" />
     <img alt="Style" src="https://img.shields.io/badge/Style-Clean%20%26%20Predictable-6f4e37" />
   </p>
@@ -17,11 +17,11 @@ Values: clarity / restraint / fast feedback / empathy.
 
 ### Stack (Current Motion)
 ```
-Backend: TypeScript (Node), Python; Rust (learning)
+Backend: TypeScript (Nest.js), Python(Django)
 Frontend: React / Next.js (hybrid rendering)  
-Infra: Docker, GitHub Actions, exploring Terraform / IaC patterns
-Data: PostgreSQL, Redis, simple brokers (when justified)
-Testing: Vitest/Jest, Pytest, contract tests case-by-case
+Infra: Docker, GitHub Actions, AWS (learning)
+Data: PostgreSQL
+Testing: learning
 ```
 
 ### Working Principles
@@ -34,15 +34,15 @@ Performance = UX
 ```
 
 ### Current Focus
-- Rust fundamentals (ownership + async robustness)
-- Edge + streaming patterns in Next.js
-- Observability & cost-aware infra decisions
+- Next.js edge + streaming patterns
+- AWS fundamentals (services + cost optimization)
+- Observability & infra decisions
 
 ### Contact
-LinkedIn · Twitter/X · Repo Issues (open ideas welcome)
+[Portfolio](https://shiradev.com) · [Email](mailto:contact@shiradev.com)
 
 ### Micro Bits
-Coffee-driven mornings. Prefer graceful failure paths. Tiny internal tools are my favorite leverage.
+Morning loaf lover. Prefer graceful failure paths. Tiny internal tools are my favorite leverage.
 
 ---
-<div align="center"><sub>Minimal profile · Updated: 2025-10-25</sub></div>
+<div align="center"><sub>Updated: 2025-11-13</sub></div>
