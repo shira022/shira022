@@ -21,17 +21,17 @@ Values: clarity / restraint / fast feedback / empathy.
 <div align="center">
   <img
     alt="Tech stack icons"
-    src="https://skillicons.dev/icons?i=ts,react,nextjs,mui,vite,nestjs,python,django,postgres,docker,aws,githubactions,linux&perline=10&theme=light"
+    src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,mui,nestjs,graphql,python,django,postgres,docker,aws,githubactions,linux,vscode&perline=10&theme=light"
   />
 </div>
 
-```
-Backend: TypeScript (Nest.js), Python (Django)
-Frontend: React / Next.js (hybrid rendering)  
-Infra: Docker, GitHub Actions, AWS (learning)
-Data: PostgreSQL
-Testing: learning
-```
+Category   | Technology Stack
+-----------|-----------------------------------------------------------------------
+Backend    | TypeScript (Nest.js), Python (Django) | REST, GraphQL | JWT, OAuth | PostgreSQL
+Frontend   | React, Next.js (hybrid rendering) | Vite | Tailwind CSS, Material-UI
+Testing    | Vitest, Playwright
+Infra & OS | Docker, GitHub Actions, AWS (learning) | Linux
+Tools      | VS Code, GitHub Copilot (CLI), Git
 
 ### Working Principles
 ```
