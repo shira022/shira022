@@ -33,14 +33,13 @@ Testing    | Vitest, Playwright
 Infra & OS | Docker, GitHub Actions, AWS (learning) | Linux
 Tools      | VS Code, GitHub Copilot (CLI), Git
 
-### Working Principles
-```
-Readable > Clever
-Small slices > Big unveils
-Automate repetition > Protect focus
-Boundary clarity > Entangled speed
-Performance = UX
-```
+### <img src="https://api.iconify.design/ph:sparkle-light.svg?color=%23bb9457" width="24" height="24" vertical-align="middle" /> Principles
+
+<img src="https://api.iconify.design/ph:text-align-left-light.svg?color=%23bb9457" width="20" height="20" vertical-align="middle" /> **Readable** > Clever  
+<img src="https://api.iconify.design/ph:stack-light.svg?color=%23bb9457" width="20" height="20" vertical-align="middle" /> **Small slices** > Big unveils  
+<img src="https://api.iconify.design/ph:magic-wand-light.svg?color=%23bb9457" width="20" height="20" vertical-align="middle" /> **Automate repetition** > Protect focus  
+<img src="https://api.iconify.design/ph:exclude-light.svg?color=%23bb9457" width="20" height="20" vertical-align="middle" /> **Boundary clarity** > Entangled speed  
+<img src="https://api.iconify.design/ph:gauge-light.svg?color=%23bb9457" width="20" height="20" vertical-align="middle" /> **Performance = UX**
 
 ### Current Focus
 - Next.js edge + streaming patterns
@@ -65,4 +64,4 @@ Performance = UX
 Morning loaf lover. Prefer graceful failure paths. Tiny internal tools are my favorite leverage.
 
 ---
-<div align="center"><sub>Updated: 2025-12-19</sub></div>
+<div align="center"><sub>Updated: 2026-02-05</sub></div>
