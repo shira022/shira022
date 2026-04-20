@@ -31,7 +31,7 @@ Backend    | TypeScript (Nest.js), Python (Django) | REST, GraphQL | JWT, OAuth 
 Frontend   | React, Next.js (hybrid rendering) | Vite | Tailwind CSS, Material-UI
 Testing    | Vitest, Playwright
 Infra & OS | Docker, GitHub Actions, AWS (learning) | Linux
-Tools      | VS Code, GitHub Copilot (CLI), Git
+Tools      | VS Code, OpenCode (CLI), Git
 
 ### <img src="https://api.iconify.design/ph:sparkle-light.svg?color=%23bb9457" width="24" height="24" vertical-align="middle" /> Principles
 
