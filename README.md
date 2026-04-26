@@ -55,7 +55,7 @@ Tools      | VS Code, OpenCode (CLI), Git
   <a href="https://shiradev.com">
     <img src="https://img.shields.io/badge/Portfolio-bb9457?style=for-the-badge&logo=googlechrome&logoColor=fffbe7" alt="Portfolio" />
   </a>
-  <a href="mailto:contact@shiradev.com">
+  <a href="mailto:shira022contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-b08968?style=for-the-badge&logo=gmail&logoColor=fffbe7" alt="Email" />
   </a>
 </div>
@@ -64,4 +64,4 @@ Tools      | VS Code, OpenCode (CLI), Git
 Morning loaf lover. Prefer graceful failure paths. Tiny internal tools are my favorite leverage.
 
 ---
-<div align="center"><sub>Updated: 2026-02-05</sub></div>
+<div align="center"><sub>Updated: 2026-04-26</sub></div>
