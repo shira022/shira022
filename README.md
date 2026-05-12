@@ -21,7 +21,7 @@ Values: clarity / restraint / fast feedback / empathy.
 <div align="center">
   <img
     alt="Tech stack icons"
-    src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,mui,nestjs,graphql,python,django,postgres,docker,aws,githubactions,linux,vscode&perline=10&theme=light"
+    src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,mui,graphql,python,django,postgres,docker,aws,githubactions,linux,vscode&perline=10&theme=light"
   />
 </div>
 
@@ -31,7 +31,7 @@ Backend    | TypeScript (Nest.js), Python (Django) | REST, GraphQL | JWT, OAuth 
 Frontend   | React, Next.js (hybrid rendering) | Vite | Tailwind CSS, Material-UI
 Testing    | Vitest, Playwright
 Infra & OS | Docker, GitHub Actions, AWS (learning) | Linux
-Tools      | VS Code, OpenCode (CLI), Git
+Tools      | VS Code, OpenCode, Git
 
 ### <img src="https://api.iconify.design/ph:sparkle-light.svg?color=%23bb9457" width="24" height="24" vertical-align="middle" /> Principles
 
@@ -64,4 +64,4 @@ Tools      | VS Code, OpenCode (CLI), Git
 Morning loaf lover. Prefer graceful failure paths. Tiny internal tools are my favorite leverage.
 
 ---
-<div align="center"><sub>Updated: 2026-04-26</sub></div>
+<div align="center"><sub>Updated: 2026-05-12</sub></div>
